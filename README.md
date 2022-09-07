@@ -1,5 +1,5 @@
 # Arabic-Names
-A list, huge one (37K) of an arabic male/female names.
+A list, huge one (45K) of an arabic male/female names.
 
 ### What's included
 
